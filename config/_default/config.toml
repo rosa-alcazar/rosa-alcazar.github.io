@@ -1,7 +1,7 @@
-baseURL = "http://username.github.io/"
+baseURL = "http://rosa-alcazar.github.io/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "C-MOOR Student"
+title = "Rosa Alcazar"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
