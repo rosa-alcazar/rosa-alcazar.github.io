@@ -41,19 +41,15 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://www.linkedin.com/"
+url = "https://www.linkedin.com/in/rosa-alcazar-48198512/"
 
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/"
+url = "https://github.com/rosa-alcazar"
 
 [[socialIcons]]
 icon = "fab fa-twitter"
 title = "Twitter"
-url = "https://twitter.com/"
+url = "https://twitter.com/rosaalcazar15"
 
-[[socialIcons]]
-icon = "fas fa-envelope"
-title = "e-mail"
-url = "mailto:mail@example.com"
