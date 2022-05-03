@@ -10,7 +10,10 @@ Genomics data science has become foundational to modern biology research.  To cr
 
 Dr. Rosa Alcazar is a Latina, first-generation student that attended community college part-time before transferring to UC Riverside and then receiving her doctorate at Johns Hopkins University.  She is now a Biology Instructor at Clovis Community College where she advocates for institutional changes to remove systemic barriers in order to create a diverse research community.
 
+# Links
 
+- Symposium -- https://www.cloviscollege.edu/events/research-symposium.html
+- Genomics CURE at Clovis -- https://www.cloviscollege.edu/datascience
 
 <!--
 This file is left intentionally empty by default to be backward compatible with initial theme setup.
