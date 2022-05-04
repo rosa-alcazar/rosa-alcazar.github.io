@@ -12,7 +12,7 @@ Genomics data science has become foundational to modern biology research.  To cr
 
 # About
 
-Dr. Rosa Alcazar is a Latina, first-generation student that attended community college part-time before transferring to UC Riverside and then receiving her doctorate at Johns Hopkins University.  She is now a Biology Instructor at Clovis Community College where she advocates for institutional changes to remove systemic barriers in order to create a diverse research community.
+I'm a Latina, first-generation high school graduate and I attended community college while working full-time as a clerk in downtown L.A. I spent years in a desk job while aimlessly taking courses at Pasadena City College.  My turning point was the encouragement and support of an instructor at PCC, Jose Macias. I went on to transfer to UC Riverside and then received my doctorate from Johns Hopkins University.  I switched from research to teaching because I wanted to contribute towards the development of the next-generation of scientist and STEM professionals. I am currently a Biology Instructor at Clovis Community College and with the support of an NSF award, I am collaborating with a genomics data science network to bring resources and curricular innovation to Clovis Community College. 
 
 # Links
 
