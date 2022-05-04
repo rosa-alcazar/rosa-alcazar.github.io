@@ -2,6 +2,10 @@
 author = "Hugo Authors"
 +++
 
+# Mission
+
+To improve STEM undergraduate education by bringing resources to colleges serving first-generation and underrepresented minority students. 
+
 # Vision
 
 Genomics data science has become foundational to modern biology research.  To create a just research community, we must bring the necessary resources to places that excel in serving people from underrepresented populations.  While community colleges offer a pathway for many who otherwise won’t be able to attend college, these institutions lack the compute infrastructure, curriculum, and professional development necessary for instruction in rapidly changing fields.  In partnership with a network of dedicated researchers and educators, we are building a community to provide resources that are accessible by anyone, anywhere with an internet connection.  Our vision is to share not only data but expertise irrespective of institutional affiliation, breaking down barriers that create silos perpetuating a homogenized research community. 
