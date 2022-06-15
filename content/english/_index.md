@@ -18,6 +18,7 @@ I'm a Latina, first-generation high school graduate and I attended community col
 
 - Symposium -- https://www.cloviscollege.edu/events/research-symposium.html
 - Genomics CURE at Clovis -- https://www.cloviscollege.edu/datascience
+- NIH ODSS Talk June 2022 -- https://datascience.nih.gov/news/june-data-sharing-and-reuse-seminar-2022
 
 <!--
 This file is left intentionally empty by default to be backward compatible with initial theme setup.
